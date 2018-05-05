@@ -1,0 +1,4 @@
+#!/Users/jerrymei/Academics/6.268_Network_Science_and_Models/Competitive_SIR/venv/bin/python
+"""Small script to execute the igraph command line interface"""
+from igraph.app.shell import main
+main()
